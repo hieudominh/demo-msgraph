@@ -7,6 +7,7 @@ This demo requires crendentails when regsitering the app in `App Registration` a
 - Application (client) ID;
 - Directory (tenant) ID;
 - Client secret.
+
 Then provide credentitals by editing the `config.cfg` file
 # Setup permissions
 Grant consented permissions for `Microsoft Graph` in `API permissions` in `App Registration` as follows:
