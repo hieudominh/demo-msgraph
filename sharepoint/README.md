@@ -24,5 +24,5 @@ Steps:
 1. Find items
 
 # References
-https://learn.microsoft.com/en-us/graph/overview
-https://developer.microsoft.com/en-us/graph/graph-explorer
+1. https://learn.microsoft.com/en-us/graph/overview
+1. https://developer.microsoft.com/en-us/graph/graph-explorer
